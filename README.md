@@ -12,7 +12,14 @@
 # 분석
 
 * seaborn를 통해서 시각화  
+* 데이터프레임과 통계치 선택해서 보여준다
+* 선택한 컬럼의 최대값 데이터와, 최소값 데이터를 보여준다
+* 선택한 컬럼들만 pairplot과 상관계수를 보여준다
+* 고객 이름 컬럼을 검색할 수 있도록 만든다
 
 # 금액 예측
 
 * multiple linear regression로 자동차 구매 금액 예측
+
+![다운로드 (1)](https://user-images.githubusercontent.com/105832345/173175749-3f60376c-5db6-41b2-b96e-d78745ba26d5.png)
+
